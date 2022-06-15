@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">U-MatchSimulador</string>
-    <string name="txt_Simulate">Botão para simular partidas</string>
+    <string name="cd_simulate">Botão para simular partidas</string>
+    <string name="cd_home_team">Imagem do time da casa</string>
+    <string name="cd_away_team">Imagem do time de fora</string>
 </resources>
