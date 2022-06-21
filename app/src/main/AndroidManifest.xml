@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UMatchSimulator">
         <activity
+            android:name=".DetailActivity"
+            android:theme="@style/Theme.UMatchSimulator.NoActionBar"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
